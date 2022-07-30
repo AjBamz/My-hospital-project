@@ -85,7 +85,9 @@ a{
     border-radius: 100px;  
     transform: translateY(50%);
     position: relative;
-    left: 70%;
+    left: 90%;
+    top: 0;
+    bottom:0';
 }
 
 
