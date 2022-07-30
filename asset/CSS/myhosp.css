@@ -912,7 +912,7 @@ footer{
 
 /* about page */
 .story1{
-    background: linear-gradient(to top, rgba(1, 1, 20, 0.7)100%, rgba(1, 1, 20, 0.7)100%), url(/asset/IMG/hospitallobby.jpg);
+    background: linear-gradient(to top, rgba(1, 1, 20, 0.7)100%, rgba(1, 1, 20, 0.7)100%), url(../IMG/hospitallobby.jpg);
     background-position: center;
     background-size: cover;
     width: 100vw;
