@@ -78,6 +78,24 @@ a{
 }
 
 
+
+.nav-icon{
+    padding-right: 20px;
+    margin-right: 20px;
+    border-radius: 100px;  
+    transform: translateY(50%);
+    position: absoltute;
+}
+
+
+.nav-icon i{
+    font-size: 40px;
+    padding-right: 2px;
+    margin-right: 2px;
+    color: var(--primary-color);
+}
+                    
+
 .appointment{
     background-color: var(--third-color) ;
     /* margin-bottom: 2px;
