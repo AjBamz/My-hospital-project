@@ -84,7 +84,7 @@ a{
     margin-right: 20px;
     border-radius: 100px;  
     transform: translateY(50%);
-    position: absoltute;
+    position: relative;
     left: 70%;
 }
 
